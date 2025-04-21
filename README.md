@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Computer Science graduate with specialization in Big Data Analytics.<br><br>strong foundation in Python, object-oriented programming, data structures
 
 
