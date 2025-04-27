@@ -10,7 +10,7 @@ Computer Science graduate with specialization in Big Data Analytics.<br><br>stro
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Parthsaradhi29&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Parthsaradhi29&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthsaradhi29&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs /?username=Parthsaradhi29&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Parthsaradhi29&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
